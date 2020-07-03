@@ -6,11 +6,7 @@
     </head>
     <body>
     <?php ($nav_en_cours ='Programme')?>
-    <?php include 'header.php'; ?>
         
-    <footer>
-        <img src="logo_epitech.png">
-    </footer>
     <h2>Programme ISCC 2020</h2>
     <table>
         <tr>
