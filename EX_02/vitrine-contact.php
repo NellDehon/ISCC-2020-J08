@@ -18,7 +18,7 @@
                 <textarea id="msg" name="user_message"></textarea>
             </div>
             <div class="button">
-            <input type="submit" value="validé">
+            <input type="submit" value="Valider">
         </div>
         </form>
     </html>
