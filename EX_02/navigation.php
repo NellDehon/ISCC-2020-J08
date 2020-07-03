@@ -20,10 +20,3 @@
         <a href="index.php?page=contacts">Contacts</a>
     <?php endif; ?>
 </nav> 
-<nav>
-    <?php if ($_GET['page'] == 'contact'): ?>
-        <strong><a href="index.php?page=contact-form"style="color: #17c1ff">contact-form</a></strong>
-    <?php else: ?>
-        <a href="index.php?page=contact-form">Contact</a>
-    <?php endif; ?>
-</nav> 
